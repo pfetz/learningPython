@@ -1,0 +1,5 @@
+- Mac - type "python" from terminal window to open interpreter
+- string triple quote for including " and ' and spanning multiple lines"
+- python best practice is to use _ instead of camelCase: my_variables
+- windows: idle, file open, save, run module
+- mac: terminal, python <file>
